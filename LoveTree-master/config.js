@@ -6,7 +6,7 @@ var config = {
         "hôm nay ngắm cây nha",
         "Với lại",
         "tui cũng muốn cảm ơn",
-        "cảm ơn bà",
+        "Cảm Ơn Bà Nhiều Nha",
         " ❤️ ❤️ ❤️",
 
         
